@@ -1,0 +1,56 @@
+Character
+
+STR: strength - increase physical damage
+
+CON: constitute - increase physical defense, hit points
+
+INT: intelligence - increase magic attack
+
+WIS: wisdom - increase magic defense, mana point
+
+AGI: agility - increase speed and some ability damage
+
+equipment
+bag
+skill
+
+---------------------------------------------------------
+
+Monster
+
+status - normal, elite, boss
+stats
+skill
+loot
+
+---------------------------------------------------------
+
+Battle
+
+attack
+skill
+block
+flee
+item
+
+---------------------------------------------------------
+
+Trade - Shop
+
+---------------------------------------------------------
+
+Item
+
+---------------------------------------------------------
+
+Map - 5
+
+---------------------------------------------------------
+
+Menu
+
+new game
+save game
+load game
+setting?
+exit
